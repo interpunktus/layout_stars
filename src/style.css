@@ -8,10 +8,6 @@ body {
   display: flex;
 }
 
-.stars:not(:first-child) {
-  padding-top: 4px;
-}
-
 .stars__star {
   width: 16px;
   height: 16px;
